@@ -112,7 +112,7 @@ fun_fact: I turn coffee into code ☕ → 💻
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rozirwobari&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rozirwobari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Trophies" />
 </div>
 
 <br/>
